@@ -21,6 +21,7 @@ This simulation visualizes particle motion in real time and analyzes diffusion b
 ## How to Run
 1. Open the MATLAB script in MATLAB
 2. Run the script
+
 3. Both the animation and MSD plot will appear in a single figure window
 
 ## Output
@@ -29,3 +30,7 @@ This simulation visualizes particle motion in real time and analyzes diffusion b
 
 ## Notes 
 This project was created as a learning exercise to practice MATLAB vectorization, simulation design, as well as data visualization.
+
+<img width="968" height="584" alt="Simulation_Graph" src="https://github.com/user-attachments/assets/b4c171a6-c3b4-4e79-85fd-1af85de79116" />
+
+
